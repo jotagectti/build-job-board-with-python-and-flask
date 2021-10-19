@@ -4,7 +4,7 @@ pluralsight project
 CONGRATULATIONS!
 You have finished the project
 
-![alt text](https://github.com/jotagectti/build-job-board-with-python-and-flask/donecheck.png?raw=true)
+![Screenshot](donecheck.png)
 
 ALL RIGHTS TO Pluralsight https://app.pluralsight.com/projects/build-job-board-with-python-and-flask
 
